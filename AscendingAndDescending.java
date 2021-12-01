@@ -2,13 +2,6 @@ package main;
 
 import java.util.*;
 
-//Purpose:  This program is designed to take 3 integers from a user and print them in both a ascending and descending order.
-//Author:   Tyler Floyd
-//Date:     10/16/21
-//Filename: AscendingAndDescending.java
-//Input:    java.util.Scanner (Integer)
-//Output:   String (prints integers in both ascending and descending order)
-
 public class AscendingAndDescending {
 	public static void main(String[] args) {
 		//Scanner instantiation for user input
